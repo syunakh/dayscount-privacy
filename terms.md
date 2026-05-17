@@ -32,4 +32,4 @@ These Terms are governed by the laws of the developer's country of residence, wi
 
 ## Contact
 
-Questions: **syunakh@gmail.com**.
+Questions: **felines_claps.7y@icloud.com**.

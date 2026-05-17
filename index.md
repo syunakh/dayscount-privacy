@@ -42,4 +42,4 @@ We will update this document if our practices change. The "Last updated" date at
 
 ## Contact
 
-If you have questions, email **syunakh@gmail.com**.
+If you have questions, email **felines_claps.7y@icloud.com**.
