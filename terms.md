@@ -16,7 +16,7 @@ In-app purchases are processed by Apple and are non-refundable except as require
 
 ## No warranty
 
-DaysCount is provided "as is" without warranty of any kind. We do not guarantee uninterrupted operation, accurate calculations beyond reasonable best effort, or compatibility with future iOS / watchOS releases.
+DaysCount is provided "as is" without warranty of any kind. We do not guarantee uninterrupted operation, accurate calculations beyond reasonable best effort, or compatibility with future iOS releases.
 
 ## Limitation of liability
 
