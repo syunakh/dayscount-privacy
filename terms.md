@@ -1,4 +1,6 @@
-# DaysCount — Terms of Service
+**English** · [Русский](ru/terms) · [Polski](pl/terms)
+
+# Days Count — Terms of Service
 
 _Last updated: 2026-05-17_
 

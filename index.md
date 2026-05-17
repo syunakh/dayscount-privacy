@@ -1,4 +1,6 @@
-# DaysCount — Privacy Policy
+**English** · [Русский](ru/) · [Polski](pl/)
+
+# Days Count — Privacy Policy
 
 _Last updated: 2026-05-17_
 
